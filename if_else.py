@@ -5,4 +5,4 @@ print(password)
 if password == "mahesh":
     print("sucessfull")
 else:
-    print("incurrent")
+    print("unscessfull")

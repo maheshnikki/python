@@ -3,6 +3,6 @@ print(UserName)
 password = input("Password: ")
 print(password)
 if password == "mahesh":
-    print("sucessfull")
+    print("successfully")
 else:
-    print("unscessfull")
+    print("unsuccessfully")
